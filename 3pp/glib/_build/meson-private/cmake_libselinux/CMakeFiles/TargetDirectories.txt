@@ -1,0 +1,2 @@
+/tmp/i3/3pp/glib/_build/meson-private/cmake_libselinux/CMakeFiles/rebuild_cache.dir
+/tmp/i3/3pp/glib/_build/meson-private/cmake_libselinux/CMakeFiles/edit_cache.dir
